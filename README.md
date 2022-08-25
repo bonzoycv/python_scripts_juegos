@@ -1,2 +1,2 @@
 # python
- scripts creados siguiendo / Invent Your Own Computer Games with Python
+ scripts y programas creados siguiendo / Invent Your Own Computer Games with Python
